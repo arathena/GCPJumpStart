@@ -1,0 +1,61 @@
+Account Number, Amount, Transaction Type, Location, Date, Time
+987654321, 1000.00, Deposit, Salary, 2024-01-01, 09:00:00
+987654321, 50.75, Withdrawal, Grocery Store, 2024-01-01, 12:30:00
+987654321, 200.00, Deposit, Online Transfer, 2024-01-02, 10:15:00
+987654321, 20.00, Withdrawal, Coffee Shop, 2024-01-02, 08:45:00
+987654321, 150.00, Deposit, Freelance Work, 2024-01-03, 13:20:00
+987654321, 75.25, Withdrawal, Restaurant, 2024-01-03, 19:00:00
+987654321, 300.00, Deposit, Rental Income, 2024-01-04, 11:45:00
+987654321, 40.00, Withdrawal, Gas Station, 2024-01-04, 16:20:00
+987654321, 250.00, Deposit, Gift from Family, 2024-01-05, 14:00:00
+987654321, 60.75, Withdrawal, Online Shopping, 2024-01-05, 20:45:00
+987654321, 180.00, Deposit, Reimbursement, 2024-01-06, 09:30:00
+987654321, 45.50, Withdrawal, Pharmacy, 2024-01-06, 15:10:00
+987654321, 220.00, Deposit, Investment Dividend, 2024-01-07, 12:00:00
+987654321, 30.00, Withdrawal, ATM Withdrawal, 2024-01-07, 17:30:00
+987654321, 175.00, Deposit, Side Gig Payment, 2024-01-08, 10:45:00
+987654321, 50.25, Withdrawal, Movie Theater, 2024-01-08, 22:15:00
+987654321, 120.00, Deposit, Tax Refund, 2024-01-09, 08:00:00
+987654321, 15.00, Withdrawal, Parking Fee, 2024-01-09, 13:20:00
+987654321, 280.00, Deposit, Bonus from Employer, 2024-01-10, 14:30:00
+987654321, 70.50, Withdrawal, Clothing Store, 2024-01-10, 18:45:00
+987654321, 190.00, Deposit, Gig Payment, 2024-01-11, 09:00:00
+987654321, 35.75, Withdrawal, Fast Food Restaurant, 2024-01-11, 12:10:00
+987654321, 210.00, Deposit, PayPal Transfer, 2024-01-12, 10:20:00
+987654321, 80.00, Withdrawal, Home Improvement Store, 2024-01-12, 16:30:00
+987654321, 150.00, Deposit, Freelance Work, 2024-01-13, 11:00:00
+987654321, 55.25, Withdrawal, Utility Bill, 2024-01-13, 14:45:00
+987654321, 260.00, Deposit, Rental Income, 2024-01-14, 09:30:00
+987654321, 10.00, Withdrawal, Charity Donation, 2024-01-14, 12:20:00
+987654321, 240.00, Deposit, Gift from Family, 2024-01-15, 08:15:00
+987654321, 65.75, Withdrawal, Online Subscription, 2024-01-15, 16:00:00
+987654321, 1000.00, Deposit, Salary, 2024-01-16, 09:00:00
+987654321, 50.75, Withdrawal, Grocery Store, 2024-01-16, 12:30:00
+987654321, 200.00, Deposit, Online Transfer, 2024-01-17, 10:15:00
+987654321, 20.00, Withdrawal, Coffee Shop, 2024-01-17, 08:45:00
+987654321, 150.00, Deposit, Freelance Work, 2024-01-18, 13:20:00
+987654321, 75.25, Withdrawal, Restaurant, 2024-01-18, 19:00:00
+987654321, 300.00, Deposit, Rental Income, 2024-01-19, 11:45:00
+987654321, 40.00, Withdrawal, Gas Station, 2024-01-19, 16:20:00
+987654321, 250.00, Deposit, Gift from Family, 2024-01-20, 14:00:00
+987654321, 60.75, Withdrawal, Online Shopping, 2024-01-20, 20:45:00
+987654321, 180.00, Deposit, Reimbursement, 2024-01-21, 09:30:00
+987654321, 45.50, Withdrawal, Pharmacy, 2024-01-21, 15:10:00
+987654321, 220.00, Deposit, Investment Dividend, 2024-01-22, 12:00:00
+987654321, 30.00, Withdrawal, ATM Withdrawal, 2024-01-22, 17:30:00
+987654321, 175.00, Deposit, Side Gig Payment, 2024-01-23, 10:45:00
+987654321, 50.25, Withdrawal, Movie Theater, 2024-01-23, 22:15:00
+987654321, 120.00, Deposit, Tax Refund, 2024-01-24, 08:00:00
+987654321, 15.00, Withdrawal, Parking Fee, 2024-01-24, 13:20:00
+987654321, 280.00, Deposit, Bonus from Employer, 2024-01-25, 14:30:00
+987654321, 70.50, Withdrawal, Clothing Store, 2024-01-25, 18:45:00
+987654321, 190.00, Deposit, Gig Payment, 2024-01-26, 09:00:00
+987654321, 35.75, Withdrawal, Fast Food Restaurant, 2024-01-26, 12:10:00
+987654321, 210.00, Deposit, PayPal Transfer, 2024-01-27, 10:20:00
+987654321, 80.00, Withdrawal, Home Improvement Store, 2024-01-27, 16:30:00
+987654321, 150.00, Deposit, Freelance Work, 2024-01-28, 11:00:00
+987654321, 55.25, Withdrawal, Utility Bill, 2024-01-28, 14:45:00
+987654321, 260.00, Deposit, Rental Income, 2024-01-29, 09:30:00
+987654321, 10.00, Withdrawal, Charity Donation, 2024-01-29, 12:20:00
+987654321, 240.00, Deposit, Gift from Family, 2024-01-30, 08:15:00
+987654321, 65.75, Withdrawal, Online Subscription, 2024-01-30, 16:00:00
